@@ -112,5 +112,5 @@ form?.addEventListener("submit", (e) => {
     localStorage.setItem("achv1", achv1.value);
     localStorage.setItem("achv2", achv2.value);
     localStorage.setItem("achv3", achv3.value);
-    window.location.href = "./resume/resume.html";
+    window.location.href = "./resume/index.html";
 });
